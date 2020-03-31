@@ -1,0 +1,16 @@
+/home/student/MyProjects/MTGCardOrganizer/bin/Debug/netcoreapp3.1/MTGCardOrganizer
+/home/student/MyProjects/MTGCardOrganizer/bin/Debug/netcoreapp3.1/MTGCardOrganizer.deps.json
+/home/student/MyProjects/MTGCardOrganizer/bin/Debug/netcoreapp3.1/MTGCardOrganizer.runtimeconfig.json
+/home/student/MyProjects/MTGCardOrganizer/bin/Debug/netcoreapp3.1/MTGCardOrganizer.runtimeconfig.dev.json
+/home/student/MyProjects/MTGCardOrganizer/bin/Debug/netcoreapp3.1/MTGCardOrganizer.dll
+/home/student/MyProjects/MTGCardOrganizer/bin/Debug/netcoreapp3.1/MTGCardOrganizer.pdb
+/home/student/MyProjects/MTGCardOrganizer/obj/Debug/netcoreapp3.1/MTGCardOrganizer.csprojAssemblyReference.cache
+/home/student/MyProjects/MTGCardOrganizer/obj/Debug/netcoreapp3.1/MTGCardOrganizer.csproj.CoreCompileInputs.cache
+/home/student/MyProjects/MTGCardOrganizer/obj/Debug/netcoreapp3.1/MTGCardOrganizer.AssemblyInfoInputs.cache
+/home/student/MyProjects/MTGCardOrganizer/obj/Debug/netcoreapp3.1/MTGCardOrganizer.AssemblyInfo.cs
+/home/student/MyProjects/MTGCardOrganizer/obj/Debug/netcoreapp3.1/MTGCardOrganizer.dll
+/home/student/MyProjects/MTGCardOrganizer/obj/Debug/netcoreapp3.1/MTGCardOrganizer.pdb
+/home/student/MyProjects/MTGCardOrganizer/obj/Debug/netcoreapp3.1/MTGCardOrganizer.genruntimeconfig.cache
+/home/student/MyProjects/MTGCardOrganizer/bin/Debug/netcoreapp3.1/MtgApiManager.Lib.dll
+/home/student/MyProjects/MTGCardOrganizer/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/student/MyProjects/MTGCardOrganizer/obj/Debug/netcoreapp3.1/MTGCardOrganizer.csproj.CopyComplete

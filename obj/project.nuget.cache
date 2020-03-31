@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xyfm6ZQ9AjfSMPEGFpzEZy3YCBulJbhrgcKgYbT84Gyy5s35pBJgo7M/GAurvO5eh3qGxeKJQZ5aJQEwQ8FgYw==",
+  "success": true,
+  "projectFilePath": "/home/student/MyProjects/MTGCardOrganizer/MTGCardOrganizer.csproj",
+  "expectedPackageFiles": [
+    "/home/student/.nuget/packages/mtgapimanager.lib/1.2.2/mtgapimanager.lib.1.2.2.nupkg.sha512",
+    "/home/student/.nuget/packages/newtonsoft.json/12.0.1/newtonsoft.json.12.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
